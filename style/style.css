@@ -1,0 +1,14 @@
+canvas { 
+    border: 10px solid black; 
+    background-image: url(BackGrounds/campo2.png); 
+    background-size: 1010px 500px;
+    background-position: center; 
+}
+
+    img{ width: 63%; margin: auto; display: block; }
+
+    body{
+        background-image: url(BackGrounds/Sao\ paulo.png);
+        background-size: 400px 400px;
+        background-position: 25%;
+    }
