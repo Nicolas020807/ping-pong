@@ -18,6 +18,6 @@ Seta para cima e Seta para baixo
 
 Link do projeto: O projeto se encontra hospedado nesse [link]([https://vercel.com](https://ping-pong-game-nu-ten.vercel.app/)) através do Vercel.app.
 
-<img src="BackGrounds/Sao paulo.png">
+
 
 
