@@ -16,8 +16,8 @@ Seu personagem vai para cima e para baixo usando as teclas
 
 Seta para cima e Seta para baixo
 
-## Link do projeto: O projeto se encontra hospedado nesse [link]([https://vercel.com](https://ping-pong-game-nu-ten.vercel.app/)) através do Vercel.app.
+Link do projeto: O projeto se encontra hospedado nesse [link]([https://vercel.com](https://ping-pong-game-nu-ten.vercel.app/)) através do Vercel.app.
 
-<img src="assets/Sao paulo.png">
+<img src="assets/Saopaulo.png">
 
 
