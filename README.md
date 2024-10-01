@@ -6,11 +6,11 @@
 
 Um jogo feito em Html, com o tema de Futebol
 
-## descrição breve do jogo
+### descrição breve do jogo
 
 Jogo para você combater a cpu e vencê-la
 
-## Funcionalidades
+### Funcionalidades
 
 Seu personagem vai para cima e para baixo usando as teclas 
 
